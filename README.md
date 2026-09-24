@@ -25,4 +25,4 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## Live Site
 
-Live site: ([one-list-delta.vercel.app](https://one-list-delta.vercel.app/))
+Live site: [one-list-delta.vercel.app](https://one-list-delta.vercel.app/)
